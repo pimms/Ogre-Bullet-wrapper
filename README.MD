@@ -10,7 +10,8 @@ be handled manually by the user, but more simplistic methods of using these feat
 will be implemented in the future.
 
 PimEngine is currently in an early stage, and should not be used by anyone for 
-any purposes other than testing or contributing. It's not done. Not even a little bit.
+any purposes other than testing or contributing. It's not completed. Not even a little bit.
+If you want to make a game using Ogre and Bullet, <b>use Ogre and Bullet!</b>
 
 PimEngine isn't, and probably never will be, guaranteed to work. It is a delicate 
 little flower, and you must be super nice to it.
