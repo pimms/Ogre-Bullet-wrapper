@@ -30,7 +30,7 @@ Remember this position.
 
 If you haven't already, you have to download and install Ogre3D and Bullet by yourself.
 
-<a href="http://www.ogre3d.org/download">Ogre download</a>
+<a href="http://www.ogre3d.org/download">Ogre download</a><br />
 <a href="http://code.google.com/p/bullet/downloads/list">Bullet download</a>
 
 PimEngine requires you to link with Ogre and Bullet manually.
