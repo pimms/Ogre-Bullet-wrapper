@@ -18,8 +18,7 @@ little flower, and you must be super nice to it.
 
 #Setup
 
-Currently, PimEngine is only tested on a Windows environment, but should be quite painless
-to setup under OSX and Linux as well. Some modifications may be required. Line endings come to mind.
+Currently, PimEngine is only supported under a Windows environment. 
 
 This tutorial assumes that you have some knowledge of linking, setting header paths
 and otherwise working your way around your favorite IDE. 
@@ -85,13 +84,13 @@ setup.
 	PimEngine.lib
 	OgreMain.lib
 	OIS.lib
-	OpenGL32.lib   (Or UNIX equivalent... OpenGL.lib?)
+	OpenGL32.lib
 	
 <u>Debug configuration</u>
 	PimEngine_d.lib
 	OgreMain.lib
 	OIS_d.lib
-	OpenGL32.lib   (Again, UNIX equivalent.)
+	OpenGL32.lib
 
 <b>Step 5 - DLLs and config files</b>
 
