@@ -109,7 +109,7 @@ In your project, replace your main file with this piece of code:
 	class TestScene : public GameScene
 	{
 		void loadSceneResources() { std::cout<<"Sup\n"; }
-	}
+	};
 	
 	int main(int argc, char** argv[])
 	{
@@ -120,7 +120,7 @@ In your project, replace your main file with this piece of code:
 		}
 		catch( Ogre::Exception &e)
 		{
-			std::cout<<"An exception has occured!\n <<e.getFullDescription() <<"\n";
+			std::cout<<"An exception has occured!\n" <<e.getFullDescription() <<"\n";
 			getch();
 		}
 		return 0;
